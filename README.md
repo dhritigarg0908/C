@@ -104,7 +104,7 @@ The program automatically saves records and loads previously stored information 
 ---
 Project Screenshots
 1. Program Startup and Mode Selection
-
+<img width="429" height="208" alt="image" src="https://github.com/user-attachments/assets/d053928f-6fc7-4a76-9d31-123b4fa8ff79" />
 
 2. Consumer Mode Menu
 
