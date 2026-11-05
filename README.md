@@ -107,36 +107,48 @@ Project Screenshots
 <img width="429" height="208" alt="image" src="https://github.com/user-attachments/assets/d053928f-6fc7-4a76-9d31-123b4fa8ff79" />
 
 2. Consumer Mode Menu
+<img width="533" height="426" alt="image" src="https://github.com/user-attachments/assets/dadbf8dc-c807-4017-8b82-095978066d87" />
 
 
 3. Adding a Medicine
+<img width="541" height="486" alt="image" src="https://github.com/user-attachments/assets/e7e849b3-801e-478d-bbc0-0cfc7eaef441" />
 
 
 4. Viewing and Searching Medicines
+<img width="534" height="484" alt="image" src="https://github.com/user-attachments/assets/3ea1160f-480a-4a94-99ea-e44054005e4e" />
+<img width="518" height="501" alt="image" src="https://github.com/user-attachments/assets/3da50611-3c8c-429b-bca9-69b946c73e61" />
 
 
 5. Today's Medicine Reminders
+<img width="528" height="503" alt="image" src="https://github.com/user-attachments/assets/ea805374-69ba-4ce2-b166-034fb2b0b2fc" />
 
 
 6. Expiry Report
+<img width="534" height="506" alt="image" src="https://github.com/user-attachments/assets/3dac71e5-02fb-489d-b780-dd6d137a8211" />
 
 
 7. Low Stock Report
+<img width="491" height="257" alt="image" src="https://github.com/user-attachments/assets/3c2efb9a-37b4-4e30-a58b-17274b732c37" />
 
 
 8. Recording a Dose
+<img width="526" height="319" alt="image" src="https://github.com/user-attachments/assets/e9b53750-07b2-4280-8fc1-16af995c4780" />
 
 
 9. Pharmacist Mode Menu
+<img width="497" height="408" alt="image" src="https://github.com/user-attachments/assets/503c5304-8e52-42ab-ae16-e0c9bdbfc62d" />
 
 
 10. Dispensing Medicine Stock
+<img width="541" height="347" alt="image" src="https://github.com/user-attachments/assets/ae8e4fae-670e-45a5-b56b-1635f5cd2071" />
 
 
 11. Sorting Medicines by Expiry Date
+<img width="541" height="320" alt="image" src="https://github.com/user-attachments/assets/92505681-ea8f-43f5-a668-c7181fe81504" />
 
 
 12. Saving Data and Exiting
+<img width="521" height="247" alt="image" src="https://github.com/user-attachments/assets/aed4da34-06cb-4da2-89fa-3c93ed01b138" />
 
 
 ---
